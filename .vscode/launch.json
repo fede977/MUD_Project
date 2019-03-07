@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MUDserver",
+            "request": "launch",
+            "mainClass": "cs3524.solutions.mud.MUDserver"
+        }
+    ]
+}
